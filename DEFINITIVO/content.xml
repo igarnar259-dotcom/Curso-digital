@@ -1,0 +1,1096 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260513111246JFOBEQ</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260513111246JD5MY4</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Diseño en red &quot;perdiendo el miedo al clic&quot;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Inmaculada García Naranjo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Proyecto para Educación de Personas Adultas centrado en la creación colaborativa de carteles digitales sobre hábitos saludables, priorizando la pérdida del miedo a la tecnología y el aprendizaje del error.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778663561034</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp3ucz6n-lh69658qe</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y Descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y Descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y Descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp3ucz6n-lh69658qe</odePageId>
+      <odeBlockId>block-1778605917210-ngfddd6uf</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3ucz6n-lh69658qe</odePageId>
+          <odeBlockId>block-1778605917210-ngfddd6uf</odeBlockId>
+          <odeIdeviceId>idevice-1778605917206-vg7yn9g2e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Hola a todos y todas! Bienvenidos a este nuevo reto.<br />Sé que a veces, cuando nos ponemos delante de una pantalla, nos entra un poco de respeto por si "rompemos algo" o borramos lo que no debemos. Por eso, este proyecto se llama "Diseño en red: Perdiendo el miedo al clic".<br />¿Qué vamos a liar aquí?<br />Pues vamos a dejar a un lado los apuntes y nos vamos a convertir en diseñadores. El objetivo es que, entre todos, seamos capaces de crear un cartel digital chulo para nuestra materia. Pero no cada uno en su casa, sino trabajando a la vez en el mismo archivo.<br />¿Cuál es el verdadero objetivo?<br />Que cuando algo desaparezca de la pantalla o un color no nos guste, sepamos que no pasa nada. Vamos a aprender a arreglar errores, a ayudarnos entre nosotros y a ver que la tecnología está para servirnos, no para asustarnos.<br />¿Para quién? Para nosotros, el grupo de Adultos.<br />¿Cuánto tiempo? Nos llevará unas 3 o 4 sesiones (iremos sin prisas, lo importante es que todos lleguemos al final).<br />El resultado: Un cartel digital hecho en equipo del que podamos sentirnos orgullosos.</p>
+<p>¡Ánimo, que esto lo sacamos adelante juntos!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778605917206-vg7yn9g2e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Hola a todos y todas! Bienvenidos a este nuevo reto.<br />Sé que a veces, cuando nos ponemos delante de una pantalla, nos entra un poco de respeto por si \"rompemos algo\" o borramos lo que no debemos. Por eso, este proyecto se llama \"Diseño en red: Perdiendo el miedo al clic\".<br />¿Qué vamos a liar aquí?<br />Pues vamos a dejar a un lado los apuntes y nos vamos a convertir en diseñadores. El objetivo es que, entre todos, seamos capaces de crear un cartel digital chulo para nuestra materia. Pero no cada uno en su casa, sino trabajando a la vez en el mismo archivo.<br />¿Cuál es el verdadero objetivo?<br />Que cuando algo desaparezca de la pantalla o un color no nos guste, sepamos que no pasa nada. Vamos a aprender a arreglar errores, a ayudarnos entre nosotros y a ver que la tecnología está para servirnos, no para asustarnos.<br />¿Para quién? Para nosotros, el grupo de Adultos.<br />¿Cuánto tiempo? Nos llevará unas 3 o 4 sesiones (iremos sin prisas, lo importante es que todos lleguemos al final).<br />El resultado: Un cartel digital hecho en equipo del que podamos sentirnos orgullosos.</p>\n<p>¡Ánimo, que esto lo sacamos adelante juntos!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp3ucz6q-tg439coaa</odePageId>
+  <odeParentPageId>page-mp3ucz6n-lh69658qe</odeParentPageId>
+  <pageName>¿Porqué este proyecto?</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Porqué este proyecto?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Porqué este proyecto?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp3ucz6q-tg439coaa</odePageId>
+      <odeBlockId>block-1778606306980-makmgzr19</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3ucz6q-tg439coaa</odePageId>
+          <odeBlockId>block-1778606306980-makmgzr19</odeBlockId>
+          <odeIdeviceId>idevice-1778606306979-gtfwpz8rt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¿Por qué he diseñado el proyecto así?<br />Después de darle muchas vueltas a lo que vivo a diario en el aula y de aplicar el Ciclo de Gibbs a mi propia práctica, me he dado cuenta de que lo que frena a mis alumnos no es la falta de capacidad, sino la mochila emocional de inseguridad que traen.<br />Por eso, he montado esta unidad basándome en tres ideas clave que saqué de mi propia autocrítica:<br />Menos líos técnicos: He simplificado las herramientas al máximo. En la primera sesión no vamos a diseñar nada complejo, solo vamos a "hacernos amigos" del programa para que nadie se agobie con las claves.<br />La red de seguridad: He visto que entre ellos se ayudan de maravilla. He diseñado las tareas para que los que tienen un poco más de soltura echen un cable a los demás, así ganan autonomía y yo puedo estar más pendiente de los que más se atascan.<br />Aprender de las "meteduras de pata": El proyecto está hecho para que pasen cosas (que se borre un texto, que se mueva una foto...). He incluido momentos específicos para reírnos de esos fallos y aprender a solucionarlos, que es como realmente se pierde el miedo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778606306979-gtfwpz8rt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¿Por qué he diseñado el proyecto así?<br />Después de darle muchas vueltas a lo que vivo a diario en el aula y de aplicar el Ciclo de Gibbs a mi propia práctica, me he dado cuenta de que lo que frena a mis alumnos no es la falta de capacidad, sino la mochila emocional de inseguridad que traen.<br />Por eso, he montado esta unidad basándome en tres ideas clave que saqué de mi propia autocrítica:<br />Menos líos técnicos: He simplificado las herramientas al máximo. En la primera sesión no vamos a diseñar nada complejo, solo vamos a \"hacernos amigos\" del programa para que nadie se agobie con las claves.<br />La red de seguridad: He visto que entre ellos se ayudan de maravilla. He diseñado las tareas para que los que tienen un poco más de soltura echen un cable a los demás, así ganan autonomía y yo puedo estar más pendiente de los que más se atascan.<br />Aprender de las \"meteduras de pata\": El proyecto está hecho para que pasen cosas (que se borre un texto, que se mueva una foto...). He incluido momentos específicos para reírnos de esos fallos y aprender a solucionarlos, que es como realmente se pierde el miedo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp3ucz6r-i086knbun</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Seguridad y Protección de datos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad y Protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad y Protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp3ucz6r-i086knbun</odePageId>
+      <odeBlockId>block-1778607131167-e7sk2e0qq</odeBlockId>
+      <blockName>&quot;NUESTRAS REGLAS DE ORO&quot;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3ucz6r-i086knbun</odePageId>
+          <odeBlockId>block-1778607131167-e7sk2e0qq</odeBlockId>
+          <odeIdeviceId>idevice-1778607131165-5poi8iw3l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/infografía (1).jpg" width="800" height="2000" alt="" />"Nuestras 4 reglas de oro para navegar sin miedo"<br />🔐 Seguridad: Pon llaves a tus cuentas con contraseñas fuertes y no olvides cerrar sesión al terminar en clase.<br />🕵️ Privacidad: Tus datos son tu tesoro; no se los des a cualquiera.<br />🤝 Respeto: En la red, como en la vida, la educación va por delante.<br />📸 Autoría: Si te gusta una foto de internet, ¡dale el mérito a quien la hizo!</p>
+<p><br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778607131165-5poi8iw3l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/infografía (1).jpg\" width=\"800\" height=\"2000\" alt=\"\" />\"Nuestras 4 reglas de oro para navegar sin miedo\"<br />🔐 Seguridad: Pon llaves a tus cuentas con contraseñas fuertes y no olvides cerrar sesión al terminar en clase.<br />🕵️ Privacidad: Tus datos son tu tesoro; no se los des a cualquiera.<br />🤝 Respeto: En la red, como en la vida, la educación va por delante.<br />📸 Autoría: Si te gusta una foto de internet, ¡dale el mérito a quien la hizo!</p>\n<p><br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp3ucz6s-d8e1eylko</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName> &quot;El Reto: Nuestro Cartel&quot;.</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value> &quot;El Reto: Nuestro Cartel&quot;.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value> &quot;El Reto: Nuestro Cartel&quot;.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp3ucz6s-d8e1eylko</odePageId>
+      <odeBlockId>block-1778437299937-3r1pbvuq3</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3ucz6s-d8e1eylko</odePageId>
+          <odeBlockId>block-1778437299937-3r1pbvuq3</odeBlockId>
+          <odeIdeviceId>idevice-1778437299933-trcxh1b7n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong>TÍTULO: Carteles digitales: Perdiendo el miedo al clic</strong></em></p>
+<p>1. Herramienta propuesta:</p>
+<p>Canva (utilizando plantillas prediseñadas).</p>
+<p>2. Objetivo de usar esta herramienta:</p>
+<p>El objetivo es que el alumnado aprenda a modificar un documento digital sencillo. En lugar de crear desde cero, solo tendrán que cambiar el texto o la foto de una plantilla ya hecha. Lo que buscamos es que pierdan el miedo a usar el ratón y el teclado en un entorno profesional, pero amigable.</p>
+<p>3. Justificación de la elección:</p>
+<p>Facilidad absoluta: He elegido Canva porque funciona con el sistema de "pinchar y arrastrar". Es muy intuitivo para personas que están empezando.</p>
+<p>Contexto y Edad: Al ser alumnos adultos con nivel inicial, las plantillas les dan seguridad porque el cartel ya "está hecho"; ellos solo tienen que personalizarlo. Esto evita la frustración del folio en blanco.</p>
+<p>Accesibilidad y Disponibilidad: No hay que instalar nada. Se abre en el navegador del centro y listo. Además, permite trabajar en equipo sobre el mismo cartel, lo que facilita que se ayuden entre ellos.</p>
+<p>Seguridad del docente: Es una herramienta muy agradecida; con solo dos clics el resultado queda bien, lo que motiva mucho al alumno y simplifica mi labor de guía.</p>
+<p><br /></p>
+<p><br /></p>
+<p>¿Por qué esto será fácil para ti como profesor?</p>
+<p>Cuando llegues a clase, solo tienes que hacer esto:</p>
+<p>1. Tú eliges una plantilla que te guste.</p>
+<p>2. Ellos solo cambian el texto.</p>
+<p>3. No necesitas ser experto: Si algo sale mal, les enseñas el botón de "Deshacer" (la flechita hacia atrás) y todo vuelve a estar bien.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778437299933-trcxh1b7n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>TÍTULO: Carteles digitales: Perdiendo el miedo al clic</strong></em></p>\n<p>1. Herramienta propuesta:</p>\n<p>Canva (utilizando plantillas prediseñadas).</p>\n<p>2. Objetivo de usar esta herramienta:</p>\n<p>El objetivo es que el alumnado aprenda a modificar un documento digital sencillo. En lugar de crear desde cero, solo tendrán que cambiar el texto o la foto de una plantilla ya hecha. Lo que buscamos es que pierdan el miedo a usar el ratón y el teclado en un entorno profesional, pero amigable.</p>\n<p>3. Justificación de la elección:</p>\n<p>Facilidad absoluta: He elegido Canva porque funciona con el sistema de \"pinchar y arrastrar\". Es muy intuitivo para personas que están empezando.</p>\n<p>Contexto y Edad: Al ser alumnos adultos con nivel inicial, las plantillas les dan seguridad porque el cartel ya \"está hecho\"; ellos solo tienen que personalizarlo. Esto evita la frustración del folio en blanco.</p>\n<p>Accesibilidad y Disponibilidad: No hay que instalar nada. Se abre en el navegador del centro y listo. Además, permite trabajar en equipo sobre el mismo cartel, lo que facilita que se ayuden entre ellos.</p>\n<p>Seguridad del docente: Es una herramienta muy agradecida; con solo dos clics el resultado queda bien, lo que motiva mucho al alumno y simplifica mi labor de guía.</p>\n<p><br /></p>\n<p><br /></p>\n<p>¿Por qué esto será fácil para ti como profesor?</p>\n<p>Cuando llegues a clase, solo tienes que hacer esto:</p>\n<p>1. Tú eliges una plantilla que te guste.</p>\n<p>2. Ellos solo cambian el texto.</p>\n<p>3. No necesitas ser experto: Si algo sale mal, les enseñas el botón de \"Deshacer\" (la flechita hacia atrás) y todo vuelve a estar bien.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp3ucz6t-436lw5hz5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>&quot;Recursos Útiles&quot;.</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>&quot;Recursos Útiles&quot;.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>&quot;Recursos Útiles&quot;.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp3ucz6t-436lw5hz5</odePageId>
+      <odeBlockId>block-1778437497193-309lvtvku</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3ucz6t-436lw5hz5</odePageId>
+          <odeBlockId>block-1778437497193-309lvtvku</odeBlockId>
+          <odeIdeviceId>idevice-1778437497190-ugt84m0f5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="recursos-utiles.html" title="">https://wakelet.com/wake/0lrPJSb5auzeBBMtbDLgR</a></p>
+<p><br /></p>
+<p>Perfil del alumnado: Personas Adultas (Nivel inicial).</p>
+<p><br /></p>
+<p>1. Mi proceso de curación de contenidos</p>
+<p>Para que la curación de contenidos aporte valor real a mi alumnado de educación de personas adultas, sigo un proceso riguroso centrado en la simplicidad y la confianza:</p>
+<p><br /></p>
+<p><br /></p>
+<p>-Detección de necesidades: Me enfoco en recursos que resuelvan el "miedo al error". Busco tutoriales donde se explique que "no pasa nada si nos equivocamos".</p>
+<p>- Selección y filtrado: Solo selecciono materiales con lenguaje sencillo, sin tecnicismos innecesarios y libres de publicidad engañosa que pueda confundirles.</p>
+<p>- Organización: Clasifico la información de forma secuencial (paso a paso), evitando el caos visual para reducir su ansiedad digital.</p>
+<p>- Compartir y Medir: Utilizo herramientas visuales para distribuir el contenido. Escucho sus dudas para saber si un recurso les ha ayudado o si necesitamos uno aún más sencillo.</p>
+<p><a href="https://www.symbaloo.com/shared/AAAAA_eu4kEAA41_W3RIUg==" title="">https://www.symbaloo.com/shared/AAAAA_eu4kEAA41_W3RIUg==</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778437497190-ugt84m0f5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"exe-node:page-mp3ucz6t-436lw5hz5\" title=\"\">https://wakelet.com/wake/0lrPJSb5auzeBBMtbDLgR</a></p>\n<p><br /></p>\n<p>Perfil del alumnado: Personas Adultas (Nivel inicial).</p>\n<p><br /></p>\n<p>1. Mi proceso de curación de contenidos</p>\n<p>Para que la curación de contenidos aporte valor real a mi alumnado de educación de personas adultas, sigo un proceso riguroso centrado en la simplicidad y la confianza:</p>\n<p><br /></p>\n<p><br /></p>\n<p>-Detección de necesidades: Me enfoco en recursos que resuelvan el \"miedo al error\". Busco tutoriales donde se explique que \"no pasa nada si nos equivocamos\".</p>\n<p>- Selección y filtrado: Solo selecciono materiales con lenguaje sencillo, sin tecnicismos innecesarios y libres de publicidad engañosa que pueda confundirles.</p>\n<p>- Organización: Clasifico la información de forma secuencial (paso a paso), evitando el caos visual para reducir su ansiedad digital.</p>\n<p>- Compartir y Medir: Utilizo herramientas visuales para distribuir el contenido. Escucho sus dudas para saber si un recurso les ha ayudado o si necesitamos uno aún más sencillo.</p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAA_eu4kEAA41_W3RIUg==\" title=\"\">https://www.symbaloo.com/shared/AAAAA_eu4kEAA41_W3RIUg==</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp3ucz6u-4ph90b9p1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Cómo nos organizamos?</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo nos organizamos?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo nos organizamos?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp3ucz6u-4ph90b9p1</odePageId>
+      <odeBlockId>block-1778607702267-kyczhjnm3</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3ucz6u-4ph90b9p1</odePageId>
+          <odeBlockId>block-1778607702267-kyczhjnm3</odeBlockId>
+          <odeIdeviceId>idevice-1778607702265-cmw3879iu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://canva.link/6grzapnzo7jui35" title="https://canva.link/6grzapnzo7jui35"><img src="{{context_path}}/content/resources/sesiones.jpg" width="800" height="2000" alt="" /></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778607702265-cmw3879iu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://canva.link/6grzapnzo7jui35\" title=\"https://canva.link/6grzapnzo7jui35\"><img src=\"{{context_path}}/content/resources/sesiones.jpg\" width=\"800\" height=\"2000\" alt=\"\" /></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp3ucz6v-zlgwd87l4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación y Rúbrica</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación y Rúbrica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación y Rúbrica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp3ucz6v-zlgwd87l4</odePageId>
+      <odeBlockId>block-1778660409342-7muqrxfxu</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3ucz6v-zlgwd87l4</odePageId>
+          <odeBlockId>block-1778660409342-7muqrxfxu</odeBlockId>
+          <odeIdeviceId>idevice-1778660409340-bcfhmi19x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong>1. Mis dos instrumentos de evaluación</strong></em><br />Para este proyecto con mis alumnos adultos, he elegido dos formas de evaluar que no les generen estrés: una para ver cómo trabajan (observación) y otra para que ellos piensen en su propio avance (diana).<br />Instrumento 1: Lista de observación (El proceso de trabajo)<br />En lugar de un examen, usaré una lista de tres niveles que iré completando mientras les veo trabajar en el aula:<br /> <strong>¿Qué voy a evaluar?:</strong><br />1. Si saben usar el botón "deshacer" cuando algo sale mal (manejo del error).<br />2. Si colaboran con su pareja de forma generosa.<br />3. Si buscan imágenes respetando los derechos de autor.<br /><strong>¿Cómo analizo los datos?</strong>: Si al terminar la sesión veo que a la mayoría le ha costado el punto 3 (las fotos), la siguiente clase no avanzaré materia nueva; me pararé a explicarlo de otra forma. Estos datos me sirven para no dejar a nadie atrás y ajustar mi ritmo al suyo.<br />Instrumento 2: La Diana de Autoevaluación (La parte emocional)<br />Al final del proyecto, les daré un dibujo de una diana con 4 zonas: Confianza, Ayuda a compañeros, Manejo del ratón y Uso de Canva.<br /> <strong>¿Cómo se usa?</strong>: El alumno pone un punto: cuanto más cerca del centro, más seguro se siente en ese tema. Al unir los puntos, ven su "mapa" de aprendizaje.<br /> <strong>¿Para qué me sirve?</strong>: Me da datos sobre su seguridad. Si veo que la mayoría pone el punto lejos en "Confianza", sabré que en el próximo proyecto debo darles pasos todavía más pequeños para que no se agobien.<br />2. Cómo les daré feedback y ayuda para mejorar<br />No me limitaré a darles una nota. Mi estrategia de feedback será:<br /><strong>Consejos en el momento</strong>: Mientras pasee por las mesas, les daré sugerencias positivas. Por ejemplo: "Me encanta ese color, ¿sabes que si pulsas aquí se verá aún más claro?".<br /><strong>Tratamiento de imprevistos:</strong> Si un alumno se bloquea o falta a clase, seré flexible. Valoraré su esfuerzo personal y su evolución desde el primer día, no solo el acabado final del cartel.<br /> <strong>Sugerencias de mejora</strong>: En su diana final, les escribiré una nota personalizada destacando el miedo que han conseguido superar (ej: "¡Ya no te asustas si algo se borra, enhorabuena!").</p>
+<p><strong>¡Hola! En esta sección puedes consultar cómo vamos a evaluar tu trabajo. Utiliza la siguiente rúbrica para comprobar que tu producto final cumple con todos los requisitos antes de entregarlo."</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778660409340-bcfhmi19x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>1. Mis dos instrumentos de evaluación</strong></em><br />Para este proyecto con mis alumnos adultos, he elegido dos formas de evaluar que no les generen estrés: una para ver cómo trabajan (observación) y otra para que ellos piensen en su propio avance (diana).<br />Instrumento 1: Lista de observación (El proceso de trabajo)<br />En lugar de un examen, usaré una lista de tres niveles que iré completando mientras les veo trabajar en el aula:<br /> <strong>¿Qué voy a evaluar?:</strong><br />1. Si saben usar el botón \"deshacer\" cuando algo sale mal (manejo del error).<br />2. Si colaboran con su pareja de forma generosa.<br />3. Si buscan imágenes respetando los derechos de autor.<br /><strong>¿Cómo analizo los datos?</strong>: Si al terminar la sesión veo que a la mayoría le ha costado el punto 3 (las fotos), la siguiente clase no avanzaré materia nueva; me pararé a explicarlo de otra forma. Estos datos me sirven para no dejar a nadie atrás y ajustar mi ritmo al suyo.<br />Instrumento 2: La Diana de Autoevaluación (La parte emocional)<br />Al final del proyecto, les daré un dibujo de una diana con 4 zonas: Confianza, Ayuda a compañeros, Manejo del ratón y Uso de Canva.<br /> <strong>¿Cómo se usa?</strong>: El alumno pone un punto: cuanto más cerca del centro, más seguro se siente en ese tema. Al unir los puntos, ven su \"mapa\" de aprendizaje.<br /> <strong>¿Para qué me sirve?</strong>: Me da datos sobre su seguridad. Si veo que la mayoría pone el punto lejos en \"Confianza\", sabré que en el próximo proyecto debo darles pasos todavía más pequeños para que no se agobien.<br />2. Cómo les daré feedback y ayuda para mejorar<br />No me limitaré a darles una nota. Mi estrategia de feedback será:<br /><strong>Consejos en el momento</strong>: Mientras pasee por las mesas, les daré sugerencias positivas. Por ejemplo: \"Me encanta ese color, ¿sabes que si pulsas aquí se verá aún más claro?\".<br /><strong>Tratamiento de imprevistos:</strong> Si un alumno se bloquea o falta a clase, seré flexible. Valoraré su esfuerzo personal y su evolución desde el primer día, no solo el acabado final del cartel.<br /> <strong>Sugerencias de mejora</strong>: En su diana final, les escribiré una nota personalizada destacando el miedo que han conseguido superar (ej: \"¡Ya no te asustas si algo se borra, enhorabuena!\").</p>\n<p><strong>¡Hola! En esta sección puedes consultar cómo vamos a evaluar tu trabajo. Utiliza la siguiente rúbrica para comprobar que tu producto final cumple con todos los requisitos antes de entregarlo.\"</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp3ucz6w-klp6mpzlc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía Didáctica</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp3ucz6w-klp6mpzlc</odePageId>
+      <odeBlockId>block-1778608392687-igt5v24md</odeBlockId>
+      <blockName>&quot;GUIA DIDÁCTICA&quot;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3ucz6w-klp6mpzlc</odePageId>
+          <odeBlockId>block-1778608392687-igt5v24md</odeBlockId>
+          <odeIdeviceId>idevice-1778608392684-cbc60qo8v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 19.9726%;"><strong>SESIÓN</strong></td>
+<td style="width: 19.9726%;"><strong>CRITERIO DE EVALUACIÓN</strong></td>
+<td style="width: 19.9726%;"><strong>AGRUPAMIENTO</strong></td>
+<td style="width: 19.9726%;"><strong>TIEMPO</strong></td>
+<td style="width: 19.9788%;"><strong>HERRAMIENTA</strong></td>
+</tr>
+<tr>
+<td style="width: 19.9726%;">1. Diccionario Calma</td>
+<td style="width: 19.9726%;">Identificar interfaces sencillas</td>
+<td style="width: 19.9726%;">Gran grupo</td>
+<td style="width: 19.9726%;">60 minutos</td>
+<td style="width: 19.9788%;">Pizarra Digital</td>
+</tr>
+<tr>
+<td style="width: 19.9726%;">2. Mi primera nube</td>
+<td style="width: 19.9726%;">Configurar perfil responsable.</td>
+<td style="width: 19.9726%;">Individual</td>
+<td style="width: 19.9726%;">50 minutos</td>
+<td style="width: 19.9788%;">Navegador</td>
+</tr>
+<tr>
+<td style="width: 19.9726%;">3. Error Creativo</td>
+<td style="width: 19.9726%;">Resolver problemas técnicos.</td>
+<td style="width: 19.9726%;">Parejas</td>
+<td style="width: 19.9726%;">60 minutos</td>
+<td style="width: 19.9788%;">Canva</td>
+</tr>
+<tr>
+<td style="width: 19.9726%;">4. Diseño Cartel</td>
+<td style="width: 19.9726%;">Crear contenidos digitales.</td>
+<td style="width: 19.9726%;">Pequeño grupo</td>
+<td style="width: 19.9726%;">90 minutos</td>
+<td style="width: 19.9788%;">Canva</td>
+</tr>
+<tr>
+<td style="width: 19.9726%;">5. Feria Digital</td>
+<td style="width: 19.9726%;">Compartir y Netiqueta.</td>
+<td style="width: 19.9726%;">Gran grupo</td>
+<td style="width: 19.9726%;">60 minutos</td>
+<td style="width: 19.9788%;">USB / Proyector</td>
+</tr>
+</tbody>
+</table>
+<p>Este proyecto está adaptado para alumnos mayores de 45 años, priorizando la gestión del estrés digital sobre la complejidad técnica".</p>
+<p> <em><strong>¿Cómo se relacionan las actividades con la evaluación?</strong></em><br />Para que este proyecto funcione bien en el aula, cada taller está pensado para trabajar un objetivo concreto. Aquí te explico brevemente qué buscamos conseguir en cada sesión y qué debemos evaluar:<br /><strong>Talleres 1 y 2 </strong>(Diccionario Calma y Mi primera nube)Lo que buscamos: Que el alumno pierda el miedo a las pantallas, entienda los botones básicos y sepa proteger sus datos personales sin agobiarse.<br />Qué evaluamos: Su capacidad para entrar en internet de forma segura y calmada, configurando su perfil con tranquilidad.</p>
+<p><br /><strong>Talleres 3 y 4</strong> (Error Creativo y Diseño Cartel)Lo que buscamos: Cambiar el chip con los fallos. Si el ordenador falla o Canva no responde, no pasa nada; buscamos soluciones juntos y en equipo para crear un cartel bonito.<br />Qué evaluamos: Cómo reaccionan ante un problema técnico y cómo colaboran en grupo para diseñar un contenido digital sencillo.</p>
+<p><br /><strong>Taller 5</strong> (Feria Digital)Lo que buscamos: Compartir el trabajo final con los demás usando un USB o el proyector, practicando el respeto mutuo en el mundo digital (lo que llamamos Netiqueta).<br />Qué evaluamos: Su soltura para compartir archivos de forma física o en red y su actitud educada al comunicarse digitalmente.</p>
+<p><br /></p>
+<p><br /> </p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778608392684-cbc60qo8v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 19.9726%;\"><strong>SESIÓN</strong></td>\n<td style=\"width: 19.9726%;\"><strong>CRITERIO DE EVALUACIÓN</strong></td>\n<td style=\"width: 19.9726%;\"><strong>AGRUPAMIENTO</strong></td>\n<td style=\"width: 19.9726%;\"><strong>TIEMPO</strong></td>\n<td style=\"width: 19.9788%;\"><strong>HERRAMIENTA</strong></td>\n</tr>\n<tr>\n<td style=\"width: 19.9726%;\">1. Diccionario Calma</td>\n<td style=\"width: 19.9726%;\">Identificar interfaces sencillas</td>\n<td style=\"width: 19.9726%;\">Gran grupo</td>\n<td style=\"width: 19.9726%;\">60 minutos</td>\n<td style=\"width: 19.9788%;\">Pizarra Digital</td>\n</tr>\n<tr>\n<td style=\"width: 19.9726%;\">2. Mi primera nube</td>\n<td style=\"width: 19.9726%;\">Configurar perfil responsable.</td>\n<td style=\"width: 19.9726%;\">Individual</td>\n<td style=\"width: 19.9726%;\">50 minutos</td>\n<td style=\"width: 19.9788%;\">Navegador</td>\n</tr>\n<tr>\n<td style=\"width: 19.9726%;\">3. Error Creativo</td>\n<td style=\"width: 19.9726%;\">Resolver problemas técnicos.</td>\n<td style=\"width: 19.9726%;\">Parejas</td>\n<td style=\"width: 19.9726%;\">60 minutos</td>\n<td style=\"width: 19.9788%;\">Canva</td>\n</tr>\n<tr>\n<td style=\"width: 19.9726%;\">4. Diseño Cartel</td>\n<td style=\"width: 19.9726%;\">Crear contenidos digitales.</td>\n<td style=\"width: 19.9726%;\">Pequeño grupo</td>\n<td style=\"width: 19.9726%;\">90 minutos</td>\n<td style=\"width: 19.9788%;\">Canva</td>\n</tr>\n<tr>\n<td style=\"width: 19.9726%;\">5. Feria Digital</td>\n<td style=\"width: 19.9726%;\">Compartir y Netiqueta.</td>\n<td style=\"width: 19.9726%;\">Gran grupo</td>\n<td style=\"width: 19.9726%;\">60 minutos</td>\n<td style=\"width: 19.9788%;\">USB / Proyector</td>\n</tr>\n</tbody>\n</table>\n<p>Este proyecto está adaptado para alumnos mayores de 45 años, priorizando la gestión del estrés digital sobre la complejidad técnica\".</p>\n<p> <em><strong>¿Cómo se relacionan las actividades con la evaluación?</strong></em><br />Para que este proyecto funcione bien en el aula, cada taller está pensado para trabajar un objetivo concreto. Aquí te explico brevemente qué buscamos conseguir en cada sesión y qué debemos evaluar:<br /><strong>Talleres 1 y 2 </strong>(Diccionario Calma y Mi primera nube)Lo que buscamos: Que el alumno pierda el miedo a las pantallas, entienda los botones básicos y sepa proteger sus datos personales sin agobiarse.<br />Qué evaluamos: Su capacidad para entrar en internet de forma segura y calmada, configurando su perfil con tranquilidad.</p>\n<p><br /><strong>Talleres 3 y 4</strong> (Error Creativo y Diseño Cartel)Lo que buscamos: Cambiar el chip con los fallos. Si el ordenador falla o Canva no responde, no pasa nada; buscamos soluciones juntos y en equipo para crear un cartel bonito.<br />Qué evaluamos: Cómo reaccionan ante un problema técnico y cómo colaboran en grupo para diseñar un contenido digital sencillo.</p>\n<p><br /><strong>Taller 5</strong> (Feria Digital)Lo que buscamos: Compartir el trabajo final con los demás usando un USB o el proyector, practicando el respeto mutuo en el mundo digital (lo que llamamos Netiqueta).<br />Qué evaluamos: Su soltura para compartir archivos de forma física o en red y su actitud educada al comunicarse digitalmente.</p>\n<p><br /></p>\n<p><br /> </p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp3ucz6w-ff1fhyy18</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp3ucz6w-ff1fhyy18</odePageId>
+      <odeBlockId>block-1778439052195-pbnb2byjd</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3ucz6w-ff1fhyy18</odePageId>
+          <odeBlockId>block-1778439052195-pbnb2byjd</odeBlockId>
+          <odeIdeviceId>idevice-1778439052192-6xaz6b48e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría</strong>: Inmaculada García Naranjo <strong>Descripción:</strong> Proyecto "Diseño en red: Perdiendo el miedo al clic" creado para el curso de Competencia Digital Docente.Licencia: Este material se publica bajo licencia Creative Commons Reconocimiento-CompartirIgual (CC BY-SA 4.0).Descarga: "El archivo fuente (.elp) está disponible para su descarga y reedición"].</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778439052192-6xaz6b48e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría</strong>: Inmaculada García Naranjo <strong>Descripción:</strong> Proyecto \"Diseño en red: Perdiendo el miedo al clic\" creado para el curso de Competencia Digital Docente.Licencia: Este material se publica bajo licencia Creative Commons Reconocimiento-CompartirIgual (CC BY-SA 4.0).Descarga: \"El archivo fuente (.elp) está disponible para su descarga y reedición\"].</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp3ucz6w-ff1fhyy18</odePageId>
+      <odeBlockId>block-1778609806276-5x9i4u3mf</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3ucz6w-ff1fhyy18</odePageId>
+          <odeBlockId>block-1778609806276-5x9i4u3mf</odeBlockId>
+          <odeIdeviceId>idevice-1778609806274-xzqufhaeg</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Diseño en red "perdiendo el miedo al clic"</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Proyecto para Educación de Personas Adultas centrado en la creación colaborativa de carteles digitales sobre hábitos saludables, priorizando la pérdida del miedo a la tecnología y el aprendizaje del error.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Inmaculada García Naranjo</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/" title="diseno-en-red-perdiendo-el-miedo-al-clic.elpx">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos</p>
+<p style="text-align: center;">.<strong><a href="{{context_path}}/content/resources/diseno-en-red-perdiendo-el-miedo-al-clic.elpx" title="diseno-en-red-perdiendo-el-miedo-al-clic.elpx">diseno-en-red-perdiendo-el-miedo-al-clic.elpx</a></strong></p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">diseno-en-red-perdiendo-el-miedo-al-clic.elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
